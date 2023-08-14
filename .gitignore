@@ -1,4 +1,4 @@
-__pycache__/*
+app/__pycache__/*
 app/static/cutting_img/*
 app/static/grep_face/*
 app/static/output_video/*
